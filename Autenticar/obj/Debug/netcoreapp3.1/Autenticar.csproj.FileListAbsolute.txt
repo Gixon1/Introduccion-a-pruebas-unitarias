@@ -1,0 +1,13 @@
+C:\Users\Gixao\source\repos\Autenticar\Autenticar\bin\Debug\netcoreapp3.1\Autenticar.exe
+C:\Users\Gixao\source\repos\Autenticar\Autenticar\bin\Debug\netcoreapp3.1\Autenticar.deps.json
+C:\Users\Gixao\source\repos\Autenticar\Autenticar\bin\Debug\netcoreapp3.1\Autenticar.runtimeconfig.json
+C:\Users\Gixao\source\repos\Autenticar\Autenticar\bin\Debug\netcoreapp3.1\Autenticar.runtimeconfig.dev.json
+C:\Users\Gixao\source\repos\Autenticar\Autenticar\bin\Debug\netcoreapp3.1\Autenticar.dll
+C:\Users\Gixao\source\repos\Autenticar\Autenticar\bin\Debug\netcoreapp3.1\Autenticar.pdb
+C:\Users\Gixao\source\repos\Autenticar\Autenticar\obj\Debug\netcoreapp3.1\Autenticar.csproj.AssemblyReference.cache
+C:\Users\Gixao\source\repos\Autenticar\Autenticar\obj\Debug\netcoreapp3.1\Autenticar.AssemblyInfoInputs.cache
+C:\Users\Gixao\source\repos\Autenticar\Autenticar\obj\Debug\netcoreapp3.1\Autenticar.AssemblyInfo.cs
+C:\Users\Gixao\source\repos\Autenticar\Autenticar\obj\Debug\netcoreapp3.1\Autenticar.csproj.CoreCompileInputs.cache
+C:\Users\Gixao\source\repos\Autenticar\Autenticar\obj\Debug\netcoreapp3.1\Autenticar.dll
+C:\Users\Gixao\source\repos\Autenticar\Autenticar\obj\Debug\netcoreapp3.1\Autenticar.pdb
+C:\Users\Gixao\source\repos\Autenticar\Autenticar\obj\Debug\netcoreapp3.1\Autenticar.genruntimeconfig.cache

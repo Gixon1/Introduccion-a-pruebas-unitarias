@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Autenticar", "Autenticar\Autenticar.csproj", "{BE433518-2695-4978-9B73-00512F135373}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Autenticar Test", "Autenticar Test\Autenticar Test.csproj", "{7ED8BCB5-22D7-4330-B3C2-5490CA9EC9DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE433518-2695-4978-9B73-00512F135373}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE433518-2695-4978-9B73-00512F135373}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE433518-2695-4978-9B73-00512F135373}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE433518-2695-4978-9B73-00512F135373}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7ED8BCB5-22D7-4330-B3C2-5490CA9EC9DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7ED8BCB5-22D7-4330-B3C2-5490CA9EC9DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7ED8BCB5-22D7-4330-B3C2-5490CA9EC9DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7ED8BCB5-22D7-4330-B3C2-5490CA9EC9DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BBC2A8A8-FE7F-4279-9E00-F9F246D2F32C}
+	EndGlobalSection
+EndGlobal
